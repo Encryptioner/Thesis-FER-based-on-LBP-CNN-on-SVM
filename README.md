@@ -126,6 +126,6 @@ Both LBP and CNN feature vector is trained on Support Vector Machine of both lin
 
 
 
-More details is discussed in thsis paper.
+More details is discussed in thesis paper.
 Kaggle Link: https://www.kaggle.com/ankur133047/kernels
 
