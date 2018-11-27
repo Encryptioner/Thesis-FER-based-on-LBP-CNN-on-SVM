@@ -1,4 +1,4 @@
-# Thesis-FER-based-on-LBP-CNN-on-SVM
+# Facial Expression Recognition Based on LBP and CNN : A Comparative Study Using SVM Classifier
 # Graduation thesis work
 
 
