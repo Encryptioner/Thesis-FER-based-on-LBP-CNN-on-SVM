@@ -1,0 +1,11 @@
+-> for windows api error 87
+
+delete files here
+C:\Users\ankur\AppData\Local\MiKTeX\2.9\miktex\data\le
+C:\ProgramData\MiKTeX\2.9\miktex\data\le
+
+
+-> download additional packages from https://ctan.org/tex-archive/systems/win32/miktex/tm/packages
+and copy it in c:/miktex_packages
+
+-> change additional package search to choosed folder. Refresh the miktex database.
