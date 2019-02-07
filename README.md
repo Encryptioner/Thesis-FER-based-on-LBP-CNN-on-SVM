@@ -15,6 +15,8 @@ Roll: 133047
 Supervisor: Prof. Dr. Md. Rabiul Islam
 
 
+Tools: Ubuntu 16.04 (OS), Python 3.5 (Programming Language), Keras with Tensorflow Backend (Framework) 
+
 --------------------------------------
 
 
